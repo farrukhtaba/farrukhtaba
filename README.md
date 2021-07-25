@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farrukhtaba
+- 👋 Hi, I’m Farrukh
 - 👀 I’m interested in Cloud Computing Architecture
 - 🌱 I’m currently learning Cloud Computing 
 - 💞️ I’m looking to collaborate on this
